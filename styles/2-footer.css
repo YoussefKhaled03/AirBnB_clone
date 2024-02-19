@@ -7,9 +7,14 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
+    position: absolute;
 }
 
 p {
     font-size: 24px;
     font-weight: bold;
+}
+footer p {
+    text-align: center;
+    margin: 20px
 }
